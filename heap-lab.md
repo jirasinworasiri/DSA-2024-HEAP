@@ -81,7 +81,8 @@ def _sift_down(self, i):
 ```python
 code python
 ```
-[Capture รูปส่งตรงนี้]
+![image](https://github.com/user-attachments/assets/5069d061-ce0c-48fd-bd57-1294ece0af66)
+
 
 ### แบบฝึกหัดที่ 2: การลบค่า
 จากข้อ 1 จงเขียนลำดับการลบค่าสูงสุดออกจาก Heap จำนวน 3 ครั้ง แสดงข้อมูล Heap หลังจากลบแต่ละครั้ง
@@ -89,7 +90,8 @@ code python
 ```python
 code python
 ```
-[Capture รูปส่งตรงนี้]
+![image](https://github.com/user-attachments/assets/2a672e7b-3a05-464b-9ab1-a0653f06f7b7)
+
 
 ### แบบฝึกหัดที่ 3: การเขียนโปรแกรม
 จงเขียนฟังก์ชัน `is_max_heap(arr)` ที่รับ array เข้ามาและตรวจสอบว่าป็น Max Heap หรือไม่ 
@@ -97,7 +99,8 @@ code python
 ```python
 code python
 ```
-[Capture รูปส่งตรงนี้]
+![image](https://github.com/user-attachments/assets/eb97f6b5-af96-4138-8b49-0d432690da60)
+
 
 
 ## การประยุกต์ใช้งานจริง
@@ -277,6 +280,11 @@ if __name__ == "__main__":
 ### ทำการปรับปรุงโปรแกรม โดยให้ทำการกดเลือกธุรกรรม แล้วจะมีเลขคิวในแต่ละช่วงของการทำธุรกรรม แทนชื่อของลูกค้า และมีการเรียกคิวตามระดับความสำคัญและเวลาที่มาก่อนหลังของลูกค้า
 
 ```python
-code python
+
 ```
-[Capture รูปส่งตรงนี้]
+![image](https://github.com/user-attachments/assets/d0e3cb5e-254d-4450-8df4-30960ebd8c50)
+![image](https://github.com/user-attachments/assets/ec74a7ec-1a4a-4a31-872d-a8c3f73e69cb)
+![image](https://github.com/user-attachments/assets/7655a943-f98a-4e8d-8b9c-9bd3573467e2)
+![image](https://github.com/user-attachments/assets/043ec93d-0922-4c30-a0d2-fd7da69fa103)
+
+
